@@ -1,5 +1,5 @@
 # Techlore VPN Review Protocol
-**Version 3.0.0**
+**Version 3.0.1**
 
 ## How Scoring Is Calculated
 - Every category is scored out of 5
@@ -30,7 +30,6 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 - Site Analytics or tracking concerns? **0.3|0.15|0**  None | Some | Lots
 - Simple private payment method? **0.3|0**  Yes | No 
 - Is any information required to register? **0.3|0**  Yes | No
-- Helps Privacy Causes? **0.1|0**  Yes | No
 - Misleading Marketing? **0.1|0**  Yes | No
 
 #### Speed 15% 
@@ -74,4 +73,5 @@ Speed results are gathered using our worldwide speed team. A final score is gath
 - Server & country selection?
 - Lowest price?
 - Free trial and/or money-back policy?
+- Helps Privacy Causes?
 - Who the VPN is geared towards? Label 'Beginner', 'Intermediate', or 'Advanced'
