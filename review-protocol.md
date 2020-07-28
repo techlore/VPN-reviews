@@ -13,7 +13,7 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 - Previous History? **1.0|0.5|0**  Nothing questionable | Some questions | Not trusted
 - OpenVPN and/or WireGuard Support?  **0.75|0**  Yes | No
 - Changes IP Address on Devices?  **0.75|0**  Yes | No
-- Passes DNS Tests? (Hidester & DNSLeakTest) **0.75|0**  Yes | No
+- Passes DNS Tests? **0.75|0**  Yes | No
 - Kill Switch? **0.4|0.2|0**  Full System KS | Program KS | No KS
 - IPV6 Leak Protection? **0.4|0**  Yes | No
 - Strongest Data Encryption? **0.3|0**  256bit+ | 128bit-
