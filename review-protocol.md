@@ -26,7 +26,7 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 - Logging Policy? **1.0|0.75|0**  No logs | Bandwidth/Timestamp Logs | Stores Logs
 - First-party DNS Servers? **1.0|0**  Yes | No
 - Jurisdiction? **0.6|0.4|0.2|0**  No Eyes | 14 Eyes | 5 Eyes | China
-- Warrant Canary?  **0.3|0**  Yes | None
+- Warrant Canary?  **0.4|0**  Yes | None
 - Site Analytics or tracking concerns? **0.3|0.15|0**  None | Some | Lots
 - Simple private payment method? **0.3|0**  Yes | No 
 - Is any information required to register? **0.3|0**  Yes | No
