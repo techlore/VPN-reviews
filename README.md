@@ -1,3 +1,4 @@
+# Techlore VPN Reviews
 ***Transparent, community-driven VPN reviews.***
 
 In the privacy world, companies and customers are looking for one-stop shops for privacy and anonymity, making VPNs one of the most over-marketed and untransparant industries to-date.
@@ -36,11 +37,11 @@ Sponsorships can be fine, but they've led to massive amounts of misinformation, 
 Because services are reviewed systematically, we are able to set transparant affiliate standards. We opt to use affiliations for services who meet certain requirements:
 * Our first requirement is a minimum score of 4.20/5 in the review protocol. If a VPN scores any less, we are unable to offer an affiliate link.
 * Affiliate plans are never considered during testing, and services without an affiliate plan are equally likely to perform the same as a non-affiliate service.
-* Affiliate plans are never hidden. We include both a standard link and an affiliate link in our reviews, clearly labeled. If a user doesn't want to support us--they should have the ***choice*** not to. 
+* Affiliate plans are never hidden. We include both a standard link and an affiliate link in our reviews, clearly labeled. If a user doesn't want to support us--they have the ***choice*** not to. 
 * Even if a VPN scores 4.20/5 or higher, it must also pass our standard channel affiliate requirements ***found here.*** 
 * If all safeguards fail, we hold ever right to cancel affiliate plans we deem to violate community trust. 
 
-Affiliate plans are our largest source of income, so being able to utilize them transparantly and in a way where users have the ***choice*** to use them is how we are able to do this for a living, while offering the utmost transparancy.
+Affiliate plans are our largest source of income, so being able to utilize them transparantly and in a way where users have the ***choice*** to use them is how we are able to do this for a living.
 
 ## Review Protocol Changelog
 Our review protocol is constantly evolving. We are continually accepting community feedback to find ways of making our testing as accurate as possible. You'll find all the changes we've made over the years ***here.***
