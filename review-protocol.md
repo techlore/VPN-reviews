@@ -1,5 +1,5 @@
 # Techlore VPN Review Protocol
-**Version 3.0.1**
+**Version 3.0.1** [View Changelog Here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol-changelog.md)
 
 ## How Scoring Is Calculated
 - Every category is scored out of 5
