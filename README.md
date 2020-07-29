@@ -44,7 +44,7 @@ Because services are reviewed systematically, we are able to set transparant aff
 * If all safeguards fail, we hold ever right to cancel affiliate plans we deem to violate community trust. 
 
 ## Review Protocol Changelog
-Our review protocol is constantly evolving. We are continually accepting community feedback to find ways of making our testing as accurate as possible. You'll find all the changes we've made over the years [here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol-changelog.md)
+Our review protocol is constantly evolving. We are continually accepting community feedback to find ways of making our testing as accurate as possible. You'll find all the changes we've made over the years [here.](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol-changelog.md)
 
 ## Do I Need a VPN? 
 Depends on your use-case, threat model, and what you’re trying to gain. We recommend the following resources covering VPNs and their use case:
