@@ -5,9 +5,9 @@ In the privacy world, companies and customers look for one-stop shops to privacy
 
 We’ve developed a community-driven process of systematically reviewing VPNs, while offering resources to educate individuals on VPN providers.
 
-For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/simple-VPN-chart.csv)
+- For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/simple-VPN-chart.csv)
 
-For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/complete-VPN-chart.csv)
+- For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/complete-VPN-chart.csv)
 
 ## Our Review Protocol & Testing Methodology
 We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol.md); you are even able to modify our percentages and scoring to fit your individual needs.
