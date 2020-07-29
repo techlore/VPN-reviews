@@ -21,8 +21,6 @@ We are addressing this issue with a world-wide VPN speed team. This will:
 
 This is a massive project with a plethora of logistical issues. It's early in development and many improvements need to be made to scale the project.
 
-You’ll find more information on the ***VPN speed team here.***
-
 ## Affiliate Plans & Sponsorships
 *This readme is brought to you buy NordVPN...* ***NOT***
 
