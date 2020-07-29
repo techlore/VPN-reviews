@@ -6,15 +6,11 @@ In the privacy world, companies and customers look for one-stop shops to privacy
 We’ve developed a community-driven process of systematically reviewing VPNs, while offering resources to educate individuals on VPN providers.
 
 - For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/simple-VPN-chart.csv)
-
 - For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/complete-VPN-chart.csv)
+- For a status of VPNs we are looking to review or currently reviewing click here.
 
 ## Our Review Protocol & Testing Methodology
 We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol.md); you are even able to modify our percentages and scoring to fit your individual needs.
-
-For testing methodology, you’ll find how we test VPNs ***in this document.***
-
-Lastly, you'll find the current status of VPN reviews we are performing and future ones ***here.***
 
 ## World-Wide VPN Speed Team
 Most speed tests on the internet are fundamentally useless, as speeds are predominantly dictated by a user’s location and the server they are connecting to. A reviewer testing a VPN from San Jose can get drastically different results than a user testing the same VPN in Australia.
