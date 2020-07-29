@@ -7,7 +7,8 @@ We’ve developed a community-driven process of systematically reviewing VPNs, w
 
 - For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/simple-VPN-chart.csv)
 - For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/complete-VPN-chart.csv)
-- For a status of VPNs we are looking to review or currently reviewing [click here.](https://github.com/techlore-official/VPN-reviews/blob/master/status.md)
+- For our in-depth video reviews for every service we test, [click here.](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYTOvbZrElePOSJZAUlx2Yr)
+- For a list of VPNs we are looking to review or currently reviewing [click here.](https://github.com/techlore-official/VPN-reviews/blob/master/status.md)
 
 ## Our Review Protocol & Testing Methodology
 We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol.md); you are even able to modify our percentages and scoring to fit your individual needs.
@@ -46,5 +47,17 @@ Depends on your use-case, threat model, and what you’re trying to gain. We rec
 * [IVPN's *Why you don't need a VPN*](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/)
 * [Privacytools.io VPN Breakdown](https://www.privacytools.io/providers/vpn/#info)
 
-## Are You a VPN Provider?
-Paste our VPN email here
+## Are You a VPN Provider? (FAQ)
+### 'We Can Offer You...'
+We don't care about affiliate rates (or if you have one at all) to get your review completed. We don't evaluate what services to review or how they perform based on affiliate plans. [View more information here.](https://github.com/techlore-official/VPN-reviews#affiliate-plans--sponsorships)
+
+### 'We want to sponsor a...'
+We don't accept any form of sponsorships on our videos. [View more information here.](https://github.com/techlore-official/VPN-reviews#affiliate-plans--sponsorships)
+
+### 'So How Do I Get a Review?'
+Great question!
+1. Check the [VPN status page](https://github.com/techlore-official/VPN-reviews/blob/master/status.md) to make sure you're on our radar. If you're not, send us an email to be added. (https://techlore.tech)
+2. At this point, it really is a waiting game. We evaluate what the community is commonly requesting as well as what previous reviews are in need of an update. We are working with very limited bandwidth so please be understanding of our time.
+3. When we finally get to reviewing your service, we will reach back out to you to confirm we have begun testing your VPN.
+4. After we have finished reviewing the VPN, we will then inquire about any offered affiliate plans (assuming you met [our requirements.](https://github.com/techlore-official/VPN-reviews#affiliate-plans--sponsorships)
+5. Publish our review and rejoice!
