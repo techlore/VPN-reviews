@@ -32,7 +32,7 @@ Sponsorships can be fine, but they've led to massive amounts of misinformation, 
 
 
 Because services are reviewed systematically, we are able to set transparant affiliate standards:
-* Our first requirement is a minimum score of 4.20/5 in the review protocol. If a VPN scores any less, we are unable to offer an affiliate link.
+* Our first requirement is a minimum score of 4.20/5 in the [review protocol.](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol.md) If a VPN scores any less, we are unable to offer an affiliate link.
 * Affiliate plans are never considered during testing, and services without an affiliate plan are equally likely to perform the same as a non-affiliate service.
 * Affiliate plans are never hidden. We include both a standard link and an affiliate link in our reviews, clearly labeled. If a user doesn't want to support us--they have the ***choice*** not to. 
 * Even if a VPN scores 4.20/5 or higher, it must also pass our standard channel [affiliate requirements found here.](https://github.com/techlore-official/YT-channel/blob/master/affiliates.md)
