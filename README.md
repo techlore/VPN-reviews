@@ -60,4 +60,4 @@ Great question!
 2. At this point, it really is a waiting game. We evaluate what the community is commonly requesting as well as what previous reviews are in need of an update. We are working with very limited bandwidth so please be understanding of our time.
 3. When we finally get to reviewing your service, we will reach back out to you to confirm we have begun testing your VPN.
 4. After we have finished reviewing the VPN, we will then inquire about any offered affiliate plans (assuming you met [our requirements.](https://github.com/techlore-official/VPN-reviews#affiliate-plans--sponsorships)
-5. Publish our review and rejoice!
+5. Publish the review and rejoice!
