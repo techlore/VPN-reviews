@@ -5,13 +5,13 @@ In the privacy world, companies and customers look for one-stop shops to privacy
 
 We’ve developed a community-driven process of systematically reviewing VPNs, while offering resources to educate individuals on VPN providers.
 
-- For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/simple-VPN-chart.csv)
-- For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/complete-VPN-chart.csv)
+- For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart-simple.csv)
+- For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart.csv)
 - For our in-depth video reviews for every service we test, [click here.](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYTOvbZrElePOSJZAUlx2Yr)
 - For a list of VPNs we are looking to review or currently reviewing [click here.](https://github.com/techlore-official/VPN-reviews/blob/master/status.md)
 
 ## Our Review Protocol & Testing Methodology
-We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol.md); you are even able to modify our percentages and scoring to fit your individual needs.
+We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/protocol.md); you are even able to modify our percentages and scoring to fit your individual needs.
 
 ## World-Wide VPN Speed Team
 Most speed tests on the internet are fundamentally useless, as speeds are predominantly dictated by a user’s location and the server they are connecting to. A reviewer testing a VPN from San Jose can get drastically different results than a user testing the same VPN in Australia.
@@ -32,14 +32,14 @@ Sponsorships can be fine, but they've led to massive amounts of misinformation, 
 
 
 Because services are reviewed systematically, we are able to set transparant affiliate standards:
-* Our first requirement is a minimum score of 4.20/5 in the [review protocol.](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol.md) If a VPN scores any less, we are unable to offer an affiliate link. This is a standard we set for ourselves, and this requirement has no effect on the testing of a service.
+* Our first requirement is a minimum score of 4.20/5 in the [review protocol.](https://github.com/techlore-official/VPN-reviews/blob/master/protocol.md) If a VPN scores any less, we are unable to offer an affiliate link. This is a standard we set for ourselves, and this requirement has no effect on the testing of a service.
 * Affiliate plans are never considered during testing, and services without an affiliate plan are equally likely to perform the same as a non-affiliate service.
 * Affiliate plans are never hidden. We include both a standard link and an affiliate link in our reviews, clearly labeled. If a user doesn't want to support us--they have the ***choice*** not to. 
 * Even if a VPN scores 4.20/5 or higher, it must also pass our standard channel [affiliate requirements found here.](https://github.com/techlore-official/YT-channel/blob/master/affiliates.md)
 * If all safeguards fail, we hold ever right to cancel affiliate plans we deem to violate community trust. 
 
 ## Review Protocol Changelog
-Our review protocol is constantly evolving. We are continually accepting community feedback to find ways of making our testing as accurate as possible. You'll find all the changes we've made over the years [here.](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol-changelog.md)
+Our review protocol is constantly evolving. We are continually accepting community feedback to find ways of making our testing as accurate as possible. You'll find all the changes we've made over the years [here.](https://github.com/techlore-official/VPN-reviews/blob/master/changelog.md)
 
 ## Do I Need a VPN? 
 Depends on your use-case, threat model, and what you’re trying to gain. We recommend the following resources covering VPNs and their use case:
