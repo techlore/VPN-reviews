@@ -5,8 +5,7 @@ In the privacy world, companies and customers look for one-stop shops to privacy
 
 We’ve developed a community-driven process of systematically reviewing VPNs, while offering resources to educate individuals on VPN providers.
 
-- For our simple VPN results [click here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart-simple.csv)
-- For our full comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart.csv)
+- For our full VPN comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart.csv)
 - For our in-depth video reviews for every service we test, [click here.](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYTOvbZrElePOSJZAUlx2Yr)
 - For a list of VPNs we are looking to review or currently reviewing [click here.](https://github.com/techlore-official/VPN-reviews/blob/master/status.md)
 
