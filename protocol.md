@@ -19,7 +19,7 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 - Strongest Data Encryption? **0.3|0**  256bit+ | 128bit-
 - Strongest Handshake Encryption? **0.3|0.15|0**  4096bit+ | 2048bit | 1024bit-
 - Two-Factor Authentication? **0.25|0**  Yes | No
-- Misleading Marketing? **0.1|0**  Yes | No
+- Misleading Marketing? **0.1|0**  No | Yes
 
 #### Privacy 25%
 - Previous History? **1.0|0.5|0**  Nothing questionable | Some questions | Not trusted
@@ -30,7 +30,7 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 - Site Analytics or tracking concerns? **0.3|0.15|0**  None | Some | Lots
 - Simple private payment method? **0.3|0**  Yes | No 
 - Is any information required to register? **0.3|0**  Yes | No
-- Misleading Marketing? **0.1|0**  Yes | No
+- Misleading Marketing? **0.1|0**  No | Yes
 
 #### Speed 15% 
 - https://speedof.me/ Ping Test x5 (Measured by ping decrease)  
