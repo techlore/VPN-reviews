@@ -1,12 +1,10 @@
 # VPN Review Status & Upcoming Reviews
 
 ## Reviews Currently Underway
-* AstrillVPN
-* NordVPN Update
 * ExpressVPN Update
-
-## Need To Review
 * PIA Update
+* WeVPN
+## Need To Review
 * Hotspot Shield
 * x-VPN
 * Unlimit VPN Proxy Master
@@ -18,7 +16,6 @@
 * RitaVPN
 * VPNCity
 * Mysterium
-* WeVPN
 * KeepSolid VPN Unlimited
 * Invincibull
 * F-Secure Freedome
@@ -55,7 +52,6 @@
 * Vshield Pro
 * DankVpN
 * AVG VPN
-* Astrill
 * Buffered VPN
 * CrypticVPN
 * Bitdefender VPN
