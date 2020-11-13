@@ -29,7 +29,7 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 - Warrant Canary?  **0.4|0**  Yes | None
 - Site Analytics or tracking concerns? **0.3|0.15|0**  None | Some | Lots
 - Simple private payment method? **0.3|0**  Yes | No 
-- Is any information required to register? **0.3|0**  Yes | No
+- Is any information required to register? **0.3|0**  No | Yes
 - Misleading Marketing? **0.1|0**  No | Yes
 
 #### Speed 15% 
