@@ -1,7 +1,6 @@
 # VPN Review Status & Upcoming Reviews
 
 ## Reviews Currently Underway
-* ExpressVPN Update
 * PIA Update
 * WeVPN
 ## Need To Review
