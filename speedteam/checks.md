@@ -3,7 +3,7 @@
 
 ## For Your First Boot
 - Is the VM working properly?
-- What network adapter are you using? It should be bridged, not NAT.
+- What network adapter are you using in VirtalBox? It should be bridged, not NAT.
 - What are your speeds in your host computer vs the virtual machine? If speeds are more than a 20% difference, do not proceed. You can test this with a basic speed test (No VPNs needed)
 - If all checks passed, continue with the instructions. The next step is scheduling your day for testing by email. **DO NOT** register for a day if you encountered an issue with a check, you should reach back out by email instead with your issue(s).
 
