@@ -2,9 +2,9 @@
 <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png" width="480" height="270">
 
 1. Install [VirtualBox + Extension Pack.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)
-2. Download the SpeedTeam Virtual Machine (VM) linked in the email sent to you.
-3. Save the VM in a safe place on your system, configure the VM for your
-specific computer [(RAM, CPU, GPU)](https://www.howtogeek.com/124796/the-htg-guide-to-speeding-up-your-virtual-machines/) Max it out without hitting red to prevent VPN bottlenecking.
+2. [Download the SpeedTeam Virtual Machine (VM).](https://gofile.io/d/Wfr52a)
+3. Save the VM in a safe place on your system, import and configure the VM for your
+specific computer [(RAM, CPU, GPU)](https://www.howtogeek.com/124796/the-htg-guide-to-speeding-up-your-virtual-machines/) Max it out without hitting red to prevent VPN bottlenecking. Everything is configured weak by default, so make sure to fully utilize your hardware!
 4. **Important!** [Make sure you are using **Bridged** as your network adapter.](https://geek-university.com/oracle-virtualbox/configure-bridged-networks/)
 5. Boot the SpeedTeam VM, login, and go through the [checks.](https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/checks.md) If everything is working as intended, shutdown the VM. If any issues arise or a check is not met, do not ignore them and respond to the email with your issue(s).
 6. It's time to schedule a day for VPN testing. Follow the link in the email sent to you to reserve a day. Reserving a day confirms your VM has no issues! **DO NOT** signup unless all checks were passed in Step 5.
