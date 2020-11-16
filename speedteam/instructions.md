@@ -1,6 +1,6 @@
 # Techlore SpeedTeam V3 Instructions
 <p align="center">
-  <img src="https://github.com/techlore-official/VPN-reviews/tree/master/speedteam/SpeedTeamv3.png">
+  <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png" width="480" height="270">
 </p>
 
 1. Install [VirtualBox + Guest Additions.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)

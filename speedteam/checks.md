@@ -1,6 +1,6 @@
 # Welcome to the Techlore SpeedTeam V3 Virtual Machine!
 <p align="center">
-  <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png">
+  <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png" width="480" height="270">
 </p>
 
 ## For Your First Boot
