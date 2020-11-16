@@ -1,7 +1,7 @@
 # Techlore SpeedTeam V3 Instructions
 <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png" width="480" height="270">
 
-1. Install [VirtualBox + Guest Additions.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)
+1. Install [VirtualBox + Extension Pack.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)
 2. Download the SpeedTeam Virtual Machine (VM) linked in the email sent to you.
 3. Save the VM in a safe place on your system, configure the VM for your
 specific computer [(RAM, CPU, GPU)](https://www.howtogeek.com/124796/the-htg-guide-to-speeding-up-your-virtual-machines/) Max it out without hitting red to prevent VPN bottlenecking.
