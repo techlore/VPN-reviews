@@ -6,6 +6,6 @@
 - What are your speeds in your host computer vs the virtual machine? If speeds are more than a 20% difference, do not proceed. You can test this with a basic speed test (No VPNs needed)
 
 ## For Future Boots & Speed Testing
-- Are still using the bridged network adapter?
+- Are you still using the bridged network adapter?
 - Are you not connected to any VPNs on your Host OS?
 - Is there minimal network activity on both the Host OS as well as other devices on your network?
