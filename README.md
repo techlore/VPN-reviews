@@ -1,30 +1,34 @@
 # Techlore VPN Reviews
-***Transparent, community-driven VPN reviews.***
+<img src="https://techlore.tech/assets/logos/vpn.svg" width="250" height="250">
+
+
+***Transparent, community-driven VPN reviews & tools.***
 
 In the privacy world, companies and customers look for one-stop shops to privacy and anonymity, making VPNs some of the most over-marketed and untransparant industries to-date.
 
-We’ve developed a community-driven process of systematically reviewing VPNs, while offering resources to educate individuals on VPN providers.
+We’ve developed a community-driven process of systematically evaluating VPNs.
 
-- For our full VPN comparison chart [click here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart.csv)
-- For our in-depth video reviews for every service we test, [click here.](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYTOvbZrElePOSJZAUlx2Yr)
-- For a list of VPNs we are looking to review or currently reviewing [click here.](https://github.com/techlore-official/VPN-reviews/blob/master/status.md)
+- To view our full VPN comparison chart [Click Here](https://techlore.tech/vpnchart.html) | [Contribute Here](https://github.com/techlore-official/VPN-reviews/blob/master/VPNchart.csv)
+- For our in-depth video reviews for every service we test, [Click Here.](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYTOvbZrElePOSJZAUlx2Yr)
+- For a list of VPNs we are looking to review or currently reviewing [Click Here.](https://github.com/techlore-official/VPN-reviews/blob/master/status.md)
+- For our other VPN Tools, including the DIY Review and Finder Tool, [Click Here.](https://techlore.tech/vpn.html)
 
 ## Our Review Protocol & Testing Methodology
-We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/protocol.md); you are even able to modify our percentages and scoring to fit your individual needs.
+We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/protocol.md); you are even able to modify our percentages and scoring to fit your individual needs using our [DIY Review Tool.](https://techlore.tech/vpnreview.html)
 
-## World-Wide VPN Speed Team
+## World-Wide Techlore VPN SpeedTeam
 Most speed tests on the internet are fundamentally useless, as speeds are predominantly dictated by a user’s location and the server they are connecting to. A reviewer testing a VPN from San Jose can get drastically different results than a user testing the same VPN in Australia.
 
 We are addressing this issue with a world-wide VPN speed team. This will:
 * Average-out speed results worldwide to confidently say VPN X is faster than VPN Y (on average)
 * Offer data for individual countries (and sometimes states) so users within those locations can view the speeds of a VPN within their general location. 
 
-This is a massive project with a plethora of logistical issues. It's early in development and many improvements need to be made to scale the project.
+The SpeedTeam is entering version 3 where it's built to scale and be implemented into our scoring. Keep an eye out for announcements.
 
 ## Affiliate Plans & Sponsorships
 *This readme is brought to you buy NordVPN...* ***NOT***
 
-Sponsorships can be fine, but they've led to massive amounts of misinformation, fake and/or biased reviews, & other...questionable practices. (We could write an entire article on the VPN industry)
+Sponsorships can be fine, but they've led to massive amounts of misinformation, fake and/or biased reviews, & other...questionable practices.
 
 
 ***We have not and will never be sponsored by a VPN provider. Period.***
