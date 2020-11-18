@@ -1,6 +1,8 @@
 # Techlore SpeedTeam V3 Instructions
 <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png" width="480" height="270">
 
+There are more [thorough instructions for SpeedTeam V3 here.](./thoroughInstructions.pdf) More advanced users should be fine with the simple instructions on this webpage, ***but if you more assistance--please resort to the thorough instructions before asking for help.***
+
 1. Install [VirtualBox + Extension Pack.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)
 2. [Download the SpeedTeam Virtual Machine (VM).](https://gofile.io/d/Wfr52a)
 3. Save the VM in a safe place on your system, import and configure the VM for your
@@ -13,5 +15,3 @@ specific computer [(RAM, CPU, GPU)](https://www.howtogeek.com/124796/the-htg-gui
 9. Perform your speed testing using the Firefox Bookmarks, a stopwatch (one is installed at the top of the VM), and input results into the spreadsheet on the desktop. **Perform a final [check](https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/checks.md) before testing.** It's recommended to duplicate or *Save As* the template so you have a blank spreadsheet for future VPN tests. Always save and use the XLS format.
 10. Once testing is completed, save and upload a copy of your final spreadsheet using the Firefox bookmark labeled *Upload Final Sheet.* It may ask for an email, you'll find another bookmark titled *Dropbox Email* which will give you a temporary email to use.
 11. Disconnect from the VPN! Delete the VPN configuration files. And remove the VPN from the network manager. The only difference in the VM after speed testing should be your completed spreadsheet.
-
-There are more thorough instructions given for SpeedTeam V2 [here.](https://techlore.tech/speedteam.pdf) These are out of date! But many of the screenshots and instructions can be applied to V3 as well if you want to be walked through it more throroughly. Always re-check these V3 instructions as these are the most up-to-date instructions.

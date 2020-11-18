@@ -11,3 +11,4 @@
 - Are you still using the bridged network adapter?
 - Are you not connected to any VPNs on your Host OS?
 - Is there minimal network activity on both the Host OS as well as other devices on your network?
+- If speed testing, are you able to connect and disconnect from the VPN successfully?
