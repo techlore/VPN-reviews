@@ -1,7 +1,7 @@
 # Techlore SpeedTeam V3 Instructions
 <img src="https://github.com/techlore-official/VPN-reviews/blob/master/speedteam/SpeedTeamv3.png" width="480" height="270">
 
-There are more [thorough instructions for SpeedTeam V3 here.](https://techlore.tech/speedteam.pdf) More advanced users should be fine with the simple instructions on this webpage, ***but if you more assistance--please resort to the thorough instructions before asking for help.***
+There are more [thorough instructions for SpeedTeam V3 here.](./thoroughInstructions.pdf) More advanced users should be fine with the simple instructions on this webpage, ***but if you more assistance--please resort to the thorough instructions before asking for help.***
 
 1. Install [VirtualBox + Extension Pack.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)
 2. [Download the SpeedTeam Virtual Machine (VM).](https://gofile.io/d/Wfr52a)
