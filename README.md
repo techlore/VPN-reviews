@@ -16,6 +16,14 @@ We’ve developed a community-driven process of systematically evaluating VPNs.
 ## Our Review Protocol & Testing Methodology
 We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore-official/VPN-reviews/blob/master/protocol.md); you are even able to modify our percentages and scoring to fit your individual needs using our [DIY Review Tool.](https://techlore.tech/vpnreview.html)
 
+## How to Contribute to the VPN Chart
+Our VPN Chart is an open project and we want every VPN on it. To make this possible, we encourage everybody to:
+* Look for mistakes
+* Add missing data
+* Add brand new services
+
+The chart is in a CSV format. It's recommended to copy/paste the header row and go through each column to fill in necessary data. If this is a new VPN, mark all the Techlore scoring as "Unreviewed" and leave all speed data blank. For other sections, feel free to refer to other VPNs for help. If you don't know what something means, just leave it blank! You can submit just a single data piece if you wanted--this is a community project. The chart will improve with time to be more intuitive and easier to use. We thank our early contributors in dealing with its limitations.
+
 ## World-Wide Techlore VPN SpeedTeam
 Most speed tests on the internet are fundamentally useless, as speeds are predominantly dictated by a user’s location and the server they are connecting to. A reviewer testing a VPN from San Jose can get drastically different results than a user testing the same VPN in Australia.
 
