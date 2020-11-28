@@ -4,7 +4,7 @@
 There are more [thorough instructions for SpeedTeam V3 here.](./thoroughInstructions.pdf) More advanced users should be fine with the simple instructions on this webpage, ***but if you more assistance--please resort to the thorough instructions before asking for help.***
 
 1. Install [VirtualBox + Extension Pack.](https://www.virtualbox.org/) (Make sure virtualization is supported & enabled in your BIOS)
-2. [Download the SpeedTeam Virtual Machine (VM).](https://gofile.io/d/Wfr52a)
+2. [Download the SpeedTeam Virtual Machine (VM).](https://gofile.io/d/RiEy7o)
 3. Save the VM in a safe place on your system, import and configure the VM for your
 specific computer [(RAM, CPU, GPU)](https://www.howtogeek.com/124796/the-htg-guide-to-speeding-up-your-virtual-machines/) Max it out without hitting red to prevent VPN bottlenecking. Everything is configured weak by default, so make sure to fully utilize your hardware!
 4. **Important!** [Make sure you are using **Bridged** as your network adapter.](https://geek-university.com/oracle-virtualbox/configure-bridged-networks/)
