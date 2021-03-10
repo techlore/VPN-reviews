@@ -1,4 +1,4 @@
-Tester,Synthetic Download Test (% of Performance),Synthetic Upload Test (% of Performance),Synthetic Ping Test (ms Difference),Ubuntu Download Test (% of Performance),Android Studio Test (% of Performance),Continent,Country
+Tester,Synthetic Download Test (% of Performance),Synthetic Upload Test (% of Performance),Synthetic Ping Test (ms Difference),Ubuntu Download Test (% of Performance),Android Studio Test (% of Performance),Continent,Country,Country CODE
 15,99.86%,100.00%,-1,99.72%,96.58%,Europe,Netherlands,NL
 42,91.98%,88.75%,1,99.09%,97.39%,Europe,Switzerland,CH
 43,71.59%,90.40%,2,49.17%,97.42%,North America,United States,US
@@ -39,4 +39,4 @@ Tester,Synthetic Download Test (% of Performance),Synthetic Upload Test (% of Pe
 31,100.79%,95.20%,5,62.99%,62.59%,Europe,Czech Republic,CZ
 59,98.09%,75.32%,13,100.57%,78.33%,Australia,Australia,AU
 40,52.51%,26.97%,31,33.03%,27.45%,Asia,India,IN
-Global Average,70.58%,75.70%,17.525,65.38%,56.77%,,
+Global Average,70.58%,75.70%,17.525,65.38%,56.77%,,,
