@@ -1,5 +1,5 @@
 # Techlore VPN Review Protocol
-**Version 3.0.1** [View Changelog Here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol-changelog.md)
+**Version 3.1** [View Changelog Here](https://github.com/techlore-official/VPN-reviews/blob/master/review-protocol-changelog.md)
 
 ## How Scoring Is Calculated
 - Every category is scored out of 5
@@ -11,25 +11,28 @@ Total VPN Score (Out of 5) = (Category 1 Score * Category 1 Percentage) + (Categ
 
 #### Security 25% 
 - Previous History? **1.0|0.5|0**  Nothing questionable | Some questions | Not trusted
-- OpenVPN and/or WireGuard Support?  **0.75|0**  Yes | No
-- Changes IP Address on Devices?  **0.75|0**  Yes | No
-- Passes DNS Tests? **0.75|0**  Yes | No
-- Kill Switch? **0.4|0.2|0**  Full System KS | Program KS | No KS
-- IPV6 Leak Protection? **0.4|0**  Yes | No
-- Strongest Data Encryption? **0.3|0**  256bit+ | 128bit-
-- Strongest Handshake Encryption? **0.3|0.15|0**  4096bit+ | 2048bit | 1024bit-
-- Two-Factor Authentication? **0.25|0**  Yes | No
+- OpenVPN and/or WireGuard Support?  **0.7|0**  Yes | No
+- Changes IP Address on Devices?  **0.7|0**  Yes | No
+- Passes DNS Tests? **0.7|0**  Yes | No
+- Kill Switch? **0.35|0.2|0**  Full System KS | Program KS | No KS
+- IPV6 Leak Protection? **0.35|0**  Yes | No
+- Strongest Data Encryption? **0.25|0**  256bit+ | 128bit-
+- Strongest Handshake Encryption? **0.25|0.15|0**  4096bit+ | 2048bit | 1024bit-
+- Two-Factor Authentication? **0.2|0**  Yes | No
+- VPN Infrastructure Audit **0.2|0**  Yes | No
+- VPN Client Audit **0.2|0**  Yes | No
 - Misleading Marketing? **0.1|0**  No | Yes
 
 #### Privacy 25%
 - Previous History? **1.0|0.5|0**  Nothing questionable | Some questions | Not trusted
 - Logging Policy? **1.0|0.75|0**  No logs | Bandwidth/Timestamp Logs | Stores Logs
 - First-party DNS Servers? **1.0|0**  Yes | No
-- Jurisdiction? **0.6|0.4|0.2|0**  No Eyes | 14 Eyes | 5 Eyes | China
+- Jurisdiction? **0.5|0.3|0.2|0**  No Eyes | 14 Eyes | 5 Eyes | China
+- Site Analytics or tracking concerns? **0.4|0.15|0**  None | Some | Lots
 - Warrant Canary?  **0.4|0**  Yes | None
-- Site Analytics or tracking concerns? **0.3|0.15|0**  None | Some | Lots
-- Simple private payment method? **0.3|0**  Yes | No 
-- Is any information required to register? **0.3|0**  No | Yes
+- Simple private payment method? **0.2|0**  Yes | No 
+- Is any information required to register? **0.2|0**  No | Yes
+- First-party VPN Servers? **0.2|0.1|0**  Yes | Some | None
 - Misleading Marketing? **0.1|0**  No | Yes
 
 #### Speed 15% 
