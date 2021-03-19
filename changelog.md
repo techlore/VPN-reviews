@@ -1,4 +1,12 @@
 # Techlore VPN Review Protocol Changelog
+## Version 3.1
+***03/18/21***
+
+- Made site analytics/tracking concerns worth slightly higher for privacy score to further punish VPNs who implement invasive trackers within their apps and programs. Partially rebalanced the category to accommodate it.
+- Added infrastructure & client audits to security & privacy categories and rebalanced each category to accommodate it. This is another important indicator to evalaute overall trust in a service.
+- Added if VPN servers are owned/rented to the privacy score for another indicator of overall trust in a service.  
+
+
 ## Version 3.0.1
 ***05/09/20***
 
