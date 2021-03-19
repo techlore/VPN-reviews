@@ -4,6 +4,8 @@
 
 ***Transparent, community-driven VPN reviews & tools.***
 
+![](https://i.creativecommons.org/p/zero/1.0/88x31.png) This project is licensed under the CC0 V1 License.
+
 In the privacy world, companies and customers look for one-stop shops to privacy and anonymity, making VPNs some of the most over-marketed and untransparant industries to-date.
 
 We’ve developed a community-driven process of systematically evaluating VPNs.
