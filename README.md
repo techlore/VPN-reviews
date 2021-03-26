@@ -15,7 +15,7 @@ All of these tools utilize a community-driven process of systematically evaluati
 ## How to Contribute
 #### VPN Chart
 Our VPN Chart is open source and we want every VPN on it. To make this possible, we encourage individuals (or even VPN companies) to:
-* Look for mistakes
+* Look for mistakes, please find & report them!
 * Add missing data
 * Add new services
 
