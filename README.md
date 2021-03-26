@@ -5,15 +5,12 @@
 
 Companies and customers look for one-stop shops to privacy and anonymity, making VPNs some of the most over-marketed and untransparant industries to-date.
 
-We’ve developed a community-driven process of systematically evaluating VPNs.
-
 - To view our full VPN comparison chart [Click Here](https://techlore.tech/vpnchart.html) | [Contribute Here](https://github.com/techlore/VPN-reviews/blob/master/VPNchart.csv)
 - For our in-depth video reviews for every service we test, [Click Here.](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYTOvbZrElePOSJZAUlx2Yr)
 - For a list of VPNs we are looking to review or currently reviewing [Click Here.](https://github.com/techlore/VPN-reviews/blob/master/status.md)
 - For our other VPN Tools, including the DIY Review and Finder Tool, [Click Here.](https://techlore.tech/vpn.html)
 
-## Our Review Protocol & Testing Methodology
-We make our VPN reviews systematic to exclude as much bias as possible. You’ll find our [review protocol here](https://github.com/techlore/VPN-reviews/blob/master/protocol.md); you are even able to modify our percentages and scoring to fit your individual needs using our [DIY Review Tool.](https://techlore.tech/vpnreview.html)
+All of these tools utilize a community-driven process of systematically evaluating VPNs. You’ll find our [review protocol here](https://github.com/techlore/VPN-reviews/blob/master/protocol.md); you are even able to modify our percentages and scoring to fit your individual needs using our [DIY Review Tool.](https://techlore.tech/vpnreview.html)
 
 ## How to Contribute
 #### VPN Chart
