@@ -4,79 +4,80 @@
 * PIA Update
 * WeVPN
 ## Need To Review
-* Hotspot Shield
-* x-VPN
-* Unlimit VPN Proxy Master
-* VPNHub
-* Spider VPN
-* UFO VPN
-* Sitelock VPN
-* NodeVPN 
-* RitaVPN
-* VPNCity
-* Mysterium
-* KeepSolid VPN Unlimited
-* Invincibull
-* F-Secure Freedome
-* hide.me VPN
-* RusVPN
-* BulletVPN
-* GriffinVPN
-* Xeovo VPN
-* Seed4me
-* Sonicfast VPN
-* anonimlab
-* BonusVPN
-* EZVPN
-* Daily VPN team
-* ButterflyVPN 
-* Boleh
-* Avast
+* 143VPN
+* ActiVPN
 * Ad guard VPN
-* BlackVPN
+* anonimlab
+* AtlasVPN
+* Avast
+* AVG VPN
+* Avira phantom vpn 
 * AzireVPN
-* IPredator Review
-* SigaVPN
-* IPSec
-* Namecheap VPN
-* OctoVPN
-* Psiphon 
 * Betternet
-* Witopia vpn 
+* Bitdefender VPN
+* BlackVPN
+* Boleh
+* BonusVPN
+* Buffered VPN
+* BulletVPN
+* ButterflyVPN 
+* cactusVPN
+* CrypticVPN
+* Cryptostorm
+* Daily VPN team
+* DankVpN
+* EZVPN
+* F-Secure Freedome
+* GriffinVPN
+* hide.me VPN
 * Hideman
 * Hidester
-* Private Tunnel VPN
-* Kaspersky VPN
-* PandaVPN
-* Vshield Pro
-* DankVpN
-* AVG VPN
-* Buffered VPN
-* CrypticVPN
-* Bitdefender VPN
-* Avira phantom vpn 
+* Hotspot Shield
 * IBVPN
-* 143VPN
-* VPNArea
-* Surfeasy VPN
-* SecureVPN.to
-* Virtual Shield
-* privatix
-* cactusVPN
-* VPN One Click
-* VeeVPN
-* VPN Master
-* TotalVPN
-* Perfect Privacy
-* VPN.ac
-* SkyVPN
-* ActiVPN
-* zoog vpn
+* Invincibull
+* IPredator Review
+* IPSec
+* Jumbo
+* Kaspersky VPN
+* KeepSolid VPN Unlimited
+* Mysterium
+* Namecheap VPN
+* NodeVPN 
+* OctoVPN
+* Oeck
+* OVPN
 * ovpn.to
 * Pandapowvpn
-* Cryptostorm
-* Trust Zone
+* PandaVPN
+* Perfect Privacy
+* Private Tunnel VPN
+* privatix
+* Psiphon 
 * Riseup VPN
-* OVPN
-* Oeck
-* AtlasVPN
+* RitaVPN
+* RusVPN
+* SecureVPN.to
+* Seed4me
+* SigaVPN
+* Sitelock VPN
+* SkyVPN
+* Sonicfast VPN
+* Spider VPN
+* Surfeasy VPN
+* TotalVPN
+* Trust Zone
+* UFO VPN
+* Unlimit VPN Proxy Master
+* VeeVPN
+* Virtual Shield
+* VPN Master
+* VPN One Click
+* VPN.ac
+* VPNArea
+* VPNCity
+* VPNHub
+* Vshield Pro
+* Witopia vpn 
+* x-VPN
+* Xeovo VPN
+* zoog vpn
