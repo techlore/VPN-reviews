@@ -1,4 +1,4 @@
-Tester,Synthetic Download Test (% of Performance),Synthetic Upload Test (% of Performance),Synthetic Ping Test (ms Difference),Ubuntu Download Test (% of Performance),Android Studio Test (% of Performance),Continent,Country,Country CODE
+Tester,Synthetic Download Test (% of Performance),Synthetic Upload Test (% of Performance),Synthetic Ping Test (ms Difference),Real-World Test 1 (% of Performance),Real-World Test 2 (% of Performance),Continent,Country,Country CODE
 0A,88.38%,94.87%,8.1,79.43%,83.10%,North America,United States,US
 2A,58.48%,24.67%,20.8,125.04%,132.78%,North America,Canada,CA
 3A,49.35%,26.99%,18.4,79.55%,83.13%,North America,United States,US
