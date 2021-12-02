@@ -28,13 +28,7 @@ We are constantly looking to improve our review protocol. If you have ideas on a
 There aren't many legitimate VPN resources on the internet. In fact, many resources pay huge sums of money for SEO to outrank legitimate resources. To help combat this, we ask users to share this project as much as possible.
 
 ## World-Wide Techlore VPN Speed Team
-Most speed tests on the internet are fundamentally flawed, as speeds are predominantly dictated by a user’s location and the server they are connecting to. A reviewer testing a VPN from San Jose can get drastically different results than a user testing the same VPN in Australia.
-
-We are addressing this issue with a world-wide VPN speed team. This will:
-* Average-out speed results worldwide to confidently say VPN X is faster than VPN Y (on average)
-* Offer data for individual countries (and sometimes states) so users within those locations can view the speeds of a VPN within their general location. 
-
-The Speed Team is in beta and is not ready for final reviews yet. Follow our communities to receive updates on its status.
+Discontinued
 
 ## Affiliate Plans & Sponsorships
 *This readme is brought to you buy NordVPN...* ***NOT***
@@ -67,7 +61,7 @@ Depends on your use-case, threat model, and what you’re trying to gain. We rec
 We don't care about affiliate rates (or if you have one at all) to get your review completed. We don't evaluate what services to review or how they perform based on affiliate plans. [View more information here.](https://github.com/techlore/VPN-reviews#affiliate-plans--sponsorships)
 
 ### 'We want to sponsor a...'
-We don't accept any form of sponsorships on our videos. [View more information here.](https://github.com/techlore/VPN-reviews#affiliate-plans--sponsorships)
+We don't accept any form of VPN sponsors on our videos. [View more information here.](https://github.com/techlore/VPN-reviews#affiliate-plans--sponsorships)
 
 ### 'So How Do I Get a Review?'
 Great question!
