@@ -1,9 +1,5 @@
-# VPN Review Status & Upcoming Reviews
+# VPNs Missing From the Chart
 
-## Reviews Currently Underway
-* PIA Update
-* WeVPN
-## Need To Review
 * 143VPN
 * ActiVPN
 * Ad guard VPN
