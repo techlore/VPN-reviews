@@ -45,5 +45,3 @@ We don't accept any form of VPN sponsors on our videos or website. [View more in
 
 ### 'So How Do I Get a Review?'
 We generally don't do individual reviews of VPNs anymore. If something intrigues us enough that we feel deserves a review, it will be considered. But VPNs are pretty simple tools that don't generally need dedicated reviews anymore.
-
-![](https://i.creativecommons.org/p/zero/1.0/88x31.png) This project is licensed under the CC0 V1 License.
