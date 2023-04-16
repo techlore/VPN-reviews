@@ -1,13 +1,13 @@
-# Techlore VPN Reviews
+# Techlore VPN Toolkit
 <img src="https://techlore.tech/assets/logos/vpn.svg" width="250" height="250">
 
-***Transparent, community-driven VPN tools.***
+***Transparent, open source VPN tools for your privacy & security 🔐***
 
 Our goal is to give users the tools to make educated decisions on what makes a VPN 'good', and what they realistically accomplish. To view our full VPN ToolKit [Click Here](https://techlore.tech/vpn)
 
 ## How to Contribute
 #### VPN Chart
-Our VPN Chart is open source and we want every VPN on it. To make this possible, we encourage individuals (or even VPN companies) to:
+Our VPN Chart is open source and we want every VPN on it. To make this possible, we encourage individuals (or VPN companies) to:
 * Look for mistakes, please find & report them!
 * Add missing data
 * Add new services
@@ -28,20 +28,3 @@ We implement an entirely opt-in, affiliate model with extremely limited services
 
 ## What Happened to VPN Reviews?
 **As of February 5, 2022 our review protocol is being phased out. We no longer feel individual VPN reviews are beneficial to our audience. Rather than individually reviewing every VPN service, we've opted for a chart with objective data points so users can visually see where each service excels. If you want your data on the chart, please contribute to the chart.**
-
-## Do I Need a VPN? 
-Depends on your use-case, threat model, and what you’re trying to gain. We recommend the following resources covering VPNs and their use case:
-
-* ['Do I Need a VPN?' Quiz](https://www.doineedavpn.com/)
-* [IVPN's *Why you don't need a VPN*](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/)
-* [PrivacyGuides VPN Breakdown](https://www.privacyguides.org/providers/vpn/#info)
-
-## Are You a VPN Provider? (FAQ)
-### 'We Can Offer You...'
-We don't care about affiliate rates (or if you have one at all) to get your service on the chart. Invest your time into contributing your data to the chart instead, it's open source and the only reason your service isn't there is because no one has submitted the data.
-
-### 'We want to sponsor a...'
-We don't accept any form of VPN sponsors on our videos or website. [View more information here.](https://github.com/techlore/VPN-reviews#affiliate-plans--sponsorships)
-
-### 'So How Do I Get a Review?'
-We generally don't do individual reviews of VPNs anymore. If something intrigues us enough that we feel deserves a review, it will be considered. But VPNs are pretty simple tools that don't generally need dedicated reviews anymore.
