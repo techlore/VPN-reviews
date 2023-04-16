@@ -22,6 +22,9 @@ A [warrant canary](https://en.wikipedia.org/wiki/Warrant_canary) is a mechanism 
 ## Logging Policy 🪵
 Put simply, what data does the VPN store on its servers about you? The goal is for them to store as close to nothing as possible.
 
+## Diskless 💾
+Some VPN providers don't store session data on drives at all, and keep sessions in RAM to assure users they are not keeping logs.
+
 ## Open Source Clients 🌐
 Having open source clients ensures A) the community can verify the VPN clients are private & secure, B) they likely don't include invasive trackers, and C) can be heavily scrutinized to ensure maximum user safety. For services that do not provide open source clients - assuming they provide OpenVPN and/or WireGuard profiles - you can use the official open source OpenVPN & WireGuard clients instead of using your VPN's native clients.
 
